@@ -1,4 +1,3 @@
-
 :root {
     --cor-de-fundo: #161618;
     --verde: #6FFF57;
@@ -40,5 +39,4 @@
     .botao:last-child {
         border-radius: 0 40px 0 0;
     }
-
-       
+    }
